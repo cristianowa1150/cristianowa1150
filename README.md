@@ -2,9 +2,10 @@
 
 # 👋 Olá, eu sou **@cristianowa1150**
 
-[![Lattes](https://img.shields.io/badge/Currículo%20Lattes-8572749726441121-1f6feb?style=for-the-badge)](https://lattes.cnpq.br/8572749726441121)
-[![Linux](https://img.shields.io/badge/Linux-enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/cristianowa1150)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Infraestrututa de TI](https://img.shields.io/badge/Infraestrututa%20de%20TI-0A66C2?style=for-the-badge&logo=serverfault&logoColor=white)
+![redes de computadores](https://img.shields.io/badge/redes%20de%20computadores-1f6feb?style=for-the-badge&logo=cisco&logoColor=white)
+![open ran](https://img.shields.io/badge/open%20ran-16a34a?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
 
