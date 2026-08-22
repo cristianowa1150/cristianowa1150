@@ -15,8 +15,6 @@
 ![GitHub Foundations Certified](https://img.shields.io/badge/GitHub%20Foundations-Certified-238636?style=for-the-badge&logo=github&logoColor=white)
 ![Credly](https://img.shields.io/badge/Credly-Recognition-F68B1F?style=flat-square&logo=credly&logoColor=white)
 
-> Certificação **GitHub Foundations** destacada no perfil.
-
 ## 🧑‍💻 Sobre mim
 
 - Interesse em tecnologia e desenvolvimento.
