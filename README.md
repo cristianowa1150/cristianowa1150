@@ -14,7 +14,7 @@
 ## 🧑‍💻 Sobre mim
 
 - Interesse em tecnologia e desenvolvimento.
-- Atualmente estudando **Desenvolvimento Web Full Stack**.
+- Atualmente estudando ** Doutorando em Ciência da Computação - UFU e OpenRan e Tecnologias emergentes**.
 - Aberto a colaboração em projetos.
 
 ```bash
