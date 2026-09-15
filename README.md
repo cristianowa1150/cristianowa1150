@@ -6,6 +6,7 @@
 ![redes de computadores](https://img.shields.io/badge/redes%20de%20computadores-1f6feb?style=for-the-badge&logo=cisco&logoColor=white)
 ![open ran](https://img.shields.io/badge/open%20ran-16a34a?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
+
 </div>
 
 ---
@@ -14,6 +15,8 @@
 
 ![GitHub Foundations Certified](https://img.shields.io/badge/GitHub%20Foundations-Certified-238636?style=for-the-badge&logo=github&logoColor=white)
 ![Credly](https://img.shields.io/badge/Credly-Recognition-F68B1F?style=flat-square&logo=credly&logoColor=white)
+[![AWS Academy Educator](https://img.shields.io/badge/AWS%20Academy-Educator-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
+
 
 ## 🧑‍💻 Sobre mim
 
